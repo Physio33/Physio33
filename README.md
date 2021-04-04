@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Emmanuel Etourmy @Physio33
+- 🇫🇷 I'm French 
 - 👀 I’m interested in coding my own tools for real and for fun.
 - 🌱 I’m currently learning Python and JavaScript.
 - 💞️ I’m looking to collaborate on my projects
