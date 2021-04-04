@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel Etourmy @Physio33
 - 👀 I’m interested in coding my own tools for real and for fun.
 - 🌱 I’m currently learning Python and JavaScript.
-- 💞️ I’m looking to get help/collaborate on my projects
+- 💞️ I’m looking to get help/collaborate on my projects.
 - 📫 How to reach me ... You can reach me here, on GitHub.
 
 <!---
